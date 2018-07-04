@@ -1,4 +1,6 @@
-package ru.academits.zografap.range1;
+package ru.academits.zografap.main;
+
+import ru.academits.zografap.range.Range;
 
 import java.util.Scanner;
 
